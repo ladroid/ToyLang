@@ -1,0 +1,5 @@
+/.replit
+/.upm
+replit.nix
+/Cargo.lock
+/target
